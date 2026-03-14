@@ -1,0 +1,7 @@
+smart_parking/
+│
+├── app.py                # Main Streamlit app
+├── requirements.txt      # Dependencies
+├── parking_spaces.json   # Parking slot status (auto-created)
+├── snapshots/            # Folder for saving camera snapshots (auto-created)
+└── README.md             # Optional: project description
